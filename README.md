@@ -1,0 +1,2 @@
+# ANOTHER-WEATHER-WEBSITE-TYPESCRIPT-
+Simple yet useful.
